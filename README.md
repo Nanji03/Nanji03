@@ -11,7 +11,7 @@
 
 ###  About Me  
 
-I'm a full-stack developer experienced with **Python**, **SQL**, **R**, **JavaScript**, and **HTML-CSS**, building scalable web apps, automating data workflows, and exploring **data science** through **Jupyter Notebooks**.  
+I'm a 4th year computer science and data science student with experience in **Python**, **SQL**, **R**, **JavaScript**, and **HTML-CSS** programming langiages, building scalable web apps, automating data workflows, and exploring **data science** through **Jupyter Notebooks**.  
 I enjoy working across the data engineering, integrating AI, and designing intuitive user experiences that blend creativity with functionality.
 
 ---
